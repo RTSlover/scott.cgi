@@ -23,4 +23,4 @@
  */ 
 ```
 
-联系方式：YangOpenSource@outlook.com
+联系方式：contact@yang.cn.eu.org
