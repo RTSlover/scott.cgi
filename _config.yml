@@ -7,4 +7,4 @@ nav:
  - name: 首页
    link: /
  - name: 博客
-   link: /#/            # link 是 pages 里面的文件名中的permalink
+   link: #            # link 是 pages 里面的文件名中的permalink
