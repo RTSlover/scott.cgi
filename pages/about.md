@@ -1,5 +1,4 @@
 ---
-description: 科技的力量！
 permalink: /about/
 lang: zh-cn
 <!-- description 是在主标题下面的那一行字；permalink 是 _cofig.yml 文件里面 link 的； -->
