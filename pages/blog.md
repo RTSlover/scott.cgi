@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /myblog/
+permalink: /blog/
 lang: zh-cn
 ---
 
