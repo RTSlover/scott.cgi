@@ -5,12 +5,12 @@ permalink: /blog/
 lang: zh-cn
 ---
 
-<h1>一些随笔</h1>
+<h2>一些随笔</h2>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     </li>
   {% endfor %}
 </ul>
