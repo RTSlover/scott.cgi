@@ -5,7 +5,7 @@ permalink: /blog/
 lang: zh-cn
 ---
 
-<h1>Latest Posts</h1>
+<h1>一些随笔</h1>
 
 <ul>
   {% for post in site.posts %}
