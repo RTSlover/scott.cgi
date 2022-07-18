@@ -8,20 +8,20 @@ author: Yang
 分“*肯定陈述句*”和“*否定陈述句*”，否定陈述句则要在助动词后加否定词。
 
 - **主谓**
+ 
 ```
 I run.
 
 我跑。
 ```
 
-
 - **主谓宾**
+
 ```
 I love you.
 
 我爱你。
 ```
-
 
 - **主系表**
 
@@ -36,6 +36,7 @@ I am iron man.
 
 
 - **主谓双宾**（直接宾语+间接宾语）
+
 ```
 I give you money.
 ```
@@ -46,6 +47,7 @@ I give you money.
 
 
 - **主谓宾+宾补**
+
 ```
 They ordered hamburger their lunch.
 
