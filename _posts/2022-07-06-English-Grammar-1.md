@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-07-06-英语语法之陈述句
+title: 22-07-06-英语语法之陈述句
 author: Yang
 ---
 
