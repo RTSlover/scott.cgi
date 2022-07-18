@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2022-07-06-回炉重造的英语语法之[陈述句]
-author: yang
+author: Yang
 ---
 
 # 陈述句
