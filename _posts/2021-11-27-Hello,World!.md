@@ -5,5 +5,5 @@ author: Yang
 --- 
 
 ## 2021-11-27T11:12:44+08:00
-![Admirelight](https://admirelight.com/img/admirelight.png)
-![Admirelight](https://admirelight.com/img/admirelight.ico)
+![logo1](https://admirelight.com/img/logo1.png)
+![logo2](https://admirelight.com/img/logo2.ico)
