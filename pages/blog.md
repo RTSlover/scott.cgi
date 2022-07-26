@@ -10,7 +10,7 @@ lang: zh-cn
 <ul>
   {% for post in site.posts %}
     <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h3>{{ page.date | date: "%Y-%m-%d" }} - <a href="{{ post.url }}">{{ post.title }}</a></h3>
     </li>
   {% endfor %}
 </ul>
