@@ -1,13 +1,11 @@
 ---
 layout: default
-title: 关于我
+title: About
 permalink: /about/
 lang: zh-cn
 ---
 
-## Welcome!
-
-欢迎来到我的个人网站，是个学生，目前高中。
+是个学生，目前高中。
 
 喜欢游戏，经常玩《[心灵终结](http://mentalomega.com/ch)》。 
 
