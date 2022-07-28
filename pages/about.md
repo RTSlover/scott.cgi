@@ -1,12 +1,13 @@
 ---
+layout: default
+title: 关于我
 permalink: /about/
 lang: zh-cn
-<!-- description 是在主标题下面的那一行字；permalink 是 _cofig.yml 文件里面 link 的； -->
 ---
 
 ## Welcome!
 
-欢迎来到我的个人网站，是个学生，目前高一。
+欢迎来到我的个人网站，是个学生，目前高中。
 
 喜欢游戏，经常玩《[心灵终结](http://mentalomega.com/ch)》。 
 
@@ -20,7 +21,7 @@ lang: zh-cn
 
 喜欢折腾，搞过双系统、云盘，总之关于计算机方面的东西不怕麻烦。
 
-励志名言：每件事都要会亿点点。
+人生目标：每件事都要会亿点点。
 
 ```
 /*
