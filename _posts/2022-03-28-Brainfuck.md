@@ -8,7 +8,7 @@ author: Yang
 
 在学习了 Python 后，我对编程有了初步了解，一次偶然间，我找到了 Brainfuck 的编译器 [brainfuck-visualizer](https://github.com/usaikiran/brainfuck-visualizer), 并用 Vercel 自建了一个，以便更好的了解BF语言。
 
-Brainfuck，简称BF，是一种极小化的程序语言，由Urban Müller在1993年创造。Fuck在英语中是脏话，所以这种语言有时称为Brainf*ck或Brainf***，或者只用简称。
+Brainfuck，简称**BF**，是一种极小化的程序语言，由Urban Müller在1993年创造。Fuck在英语中是脏话，所以这种语言有时称为Brainf\*ck或Brainf\*\*\* ，或者只用简称。
 
 下面是BF语言中八种状态的描述，其中每个状态由一个字符标识：
 
