@@ -5,6 +5,8 @@ permalink: /about/
 lang: zh-cn
 ---
 
+![](https://imgcdn.admirelight.com/img/66f33791-aa09-43a4-a25c-0352364c167a.jpeg)
+
 是个学生，目前高中。
 
 喜欢游戏，经常玩《[心灵终结](http://mentalomega.com/ch)》。 
