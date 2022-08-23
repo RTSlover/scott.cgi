@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>拍照</title>
+</head>
+
+<body>
+    <button onclick="openMedia()" >开启摄像头</button>
+    <button onclick="takePhoto()" >拍照</button><br/><br/>
+    <video style="display: none;" class="src-video" width="500px" height="500px" autoplay="autoplay"></video>
+    <canvas id="canvas" width="500px" height="500px" style="display: none;"></canvas>
+    <img src="" alt="" class="photo">
+</body>
+<script>
+    let srcVideo = document.querySelector('video.src-video');
+    let mediaStream;
+    let photo=document.querySelector('img.photo');
+    // 开启摄像头
+    let openMedia = function () {
+        photo.src='';
+        srcVideo.style.display='block';
+        let constraints = {
+            audio: false, //音频轨道
+            video: {width:500,height:500}  //视频轨道
+        }
+        let mediaPromise = navigator.mediaDevices.getUserMedia(constraints);
+        mediaPromise.then(function (stream) {
+            /* 使用这个stream stream */
+            mediaStream=stream;
+            srcVideo.srcObject = stream;
+            srcVideo.play();
+        }).catch(function (err) {
+            /* 处理error */
+            alert(err);
+        });
+    };
+
+    // 拍照
+    let takePhoto=function(){
+        let canvas = document.querySelector('#canvas');
+        //获取 `canvas`元素，根据`srcVideo`中的数据进行图片绘制 `ctx.drawImage()`；
+        let ctx = canvas.getContext('2d');
+        ctx.drawImage(srcVideo, 0, 0, 500, 500);
+        //将 `canvas`绘制的图片信息，展示在 `img`标签中；
+        photo.src=canvas.toDataURL();
+        closeMedia();
+    };
+
+    // 关闭摄像头
+    let closeMedia=function(){
+        mediaStream.getTracks().forEach(track => {
+            track.stop();
+        });
+        srcVideo.style.display='none';
+    }
+
+</script>
+</html>
