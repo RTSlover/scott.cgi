@@ -5,7 +5,7 @@ permalink: /about/
 lang: zh-cn
 ---
 
-![](https://imgcdn.admirelight.com/img/66f33791-aa09-43a4-a25c-0352364c167a.jpeg)
+![](https://imgcdn.nanking.top/img/66f33791-aa09-43a4-a25c-0352364c167a.jpeg)
 
 是个学生，目前高中。
 
@@ -30,4 +30,4 @@ lang: zh-cn
  */ 
 ```
 
-联系方式：hi@admirelight.com
+联系方式：hi@nanking.top
