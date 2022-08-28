@@ -1,12 +1,12 @@
-title      : Admirelight
+title      : Nanking
 lang       : zh-cn
-description: 仰慕光明 | Admirelight | 仰光
-copyright  : © 2021-2022 Admirelight. All Rights Reserved.
+description: 每件事都要会亿点点……
+copyright  : © 2021-2022 Nanking. All Rights Reserved.
 
 nav:
  - name: 首页
    link: /         # link 是 pages 里面的文件名中的permalink，此处格式为 /forexample/
- - name: 博客
-   link: /blog/
+ - name: 目录
+   link: /content/
  - name: 关于
    link: /about/
