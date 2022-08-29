@@ -5,7 +5,7 @@ permalink: /about/
 lang: zh-cn
 ---
 
-![](https://imgcdn.nanking.top/img/66f33791-aa09-43a4-a25c-0352364c167a.jpeg)
+![](https://b2.nanking.top/img/66f33791-aa09-43a4-a25c-0352364c167a.jpeg)
 
 是个学生，目前高中。
 
