@@ -7,6 +7,6 @@ nav:
  - name: 首页
    link: /         # link 是 pages 里面的文件名中的permalink，此处格式为 /forexample/
  - name: 目录
-   link: /post/
+   link: /blog/
  - name: 关于
    link: /about/
