@@ -25,9 +25,9 @@ lang: zh-cn
 
 ```
 /*
- * keep coding keep living.
- * stay hungry stay foolish.
+ * make joint efforts.
+ * make progress together.
  */ 
 ```
 
-联系方式：hi@nanking.top
+<address>webmaster &lt;hi@nanking.top&gt;</address>
