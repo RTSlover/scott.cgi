@@ -11,7 +11,9 @@ hi! 欢迎来到本站
 ## 其他的
 <dl>
 <dt><a href="https://nanking.top/blog/">blog</a></dt>
-<dd>个人博客，分享技术与知识</dd>
+<dd>
+<p>个人博客，分享技术与知识</p>
+</dd>
 </dl>
 
 <!-- 分割线 -->
@@ -32,7 +34,9 @@ hi! 欢迎来到本站
 </dd>
 
 <dt><a href="https://wiki.tarn.eu.org" target="_blank">Wikipedia mirror</a></dt>
-<dd>可以在没有 VPN 的情况下使用维基百科</dd>
+<dd>
+<p>可以在没有 VPN 的情况下使用维基百科</p>
+</dd>
 
 <dt><a href="https://yang.cn.eu.org" target="_blank">Google search mirror</a></dt>
 <dd>
@@ -53,7 +57,9 @@ hi! 欢迎来到本站
 </dd>
 
 <dt><a href="https://nanking.top/program/Camera/index.html" target="_blank">JS调用摄像头</a></dt>
-<dd>用JavaScript写的可以调用摄像头拍照并保存的小项目</dd>
+<dd>
+<p>用JavaScript写的可以调用摄像头拍照并保存的小项目</p>
+</dd>
 </dl>
 
 <!-- 分割线 -->
