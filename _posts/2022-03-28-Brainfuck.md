@@ -27,8 +27,6 @@ Brainfuck，简称**BF**，是一种极小化的程序语言，由Urban Müller�
 
 ---
 
-在线IDE：[传送门](https://bf.admirelight.com)
-
 以下为我写的 **Hello, World!** 的字符表示。
 
 ```
@@ -59,4 +57,4 @@ Brainfuck，简称**BF**，是一种极小化的程序语言，由Urban Müller�
 >++++++[<++++++>-]<---.
 ```
 
->[Brainfuck的中文维基百科](https://zh.wikipedia.org/wiki/Brainfuck)
+>###### 参考文献：[Brainfuck的中文维基百科](https://zh.wikipedia.org/wiki/Brainfuck)
