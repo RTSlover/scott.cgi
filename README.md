@@ -56,7 +56,7 @@ hi! 欢迎来到本站
 <p>使用方法可以参考<a href="https://blazeb2.js.org" target="_blank">官方文档</a></p>
 </dd>
 
-<dt><a href="https://nanking.top/program/Camera/index.html" target="_blank">JS调用摄像头</a></dt>
+<dt><a href="https://b2.nanking.top/other/camera.html" target="_blank">JS调用摄像头</a></dt>
 <dd>
 <p>用JavaScript写的可以调用摄像头拍照并保存的小项目</p>
 </dd>
