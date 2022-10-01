@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 英语语法之陈述句
+title: 待续的英语语法
 author: Yang
 ---
 
@@ -66,5 +66,9 @@ They ordered hamburger their lunch.
 
 
 谓语后面的两个东西，如果不能都作被动语态即为[主谓宾+宾补]。
+
+---
+
+#### 未完待续
 
 >整理自英语笔记
