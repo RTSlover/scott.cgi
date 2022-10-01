@@ -5,7 +5,7 @@ permalink: /about/
 lang: zh-cn
 ---
 
-![](https://b2.nanking.top/img/66f33791-aa09-43a4-a25c-0352364c167a.jpeg)
+![](https://b2.nanking.top/pic/img/Saturn%20in%20Freefall%20.jpg)
 
 是个学生，目前高中。
 
@@ -29,5 +29,3 @@ lang: zh-cn
  * make progress together.
  */ 
 ```
-
-<address>webmaster &lt;hi@nanking.top&gt;</address>
