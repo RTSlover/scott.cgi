@@ -4,7 +4,7 @@ hi! 欢迎来到本站
 
 <!-- 分割线 -->
 
-上一次编辑于2022-09-09
+上一次编辑于2022-11-12
 
 <!-- 分割线 -->
 
@@ -20,11 +20,11 @@ hi! 欢迎来到本站
 
 ## 网页应用
 <dl>
-<dt><a href="https://drive.nanking.top" target="_blank">私人云盘</a></dt>
+<dt><a href="https://" target="_blank"></a></dt>
 <dd>
-<p>自己搭建的云盘，安全又可控</p>
-<p>演示账号：demo@nanking.top</p>
-<p>密码：demo</p>
+<p></p>
+<p></p>
+<p></p>
 </dd>
 
 <dt><a href="https://img.nanking.top" target="_blank">b2图床</a></dt>
@@ -56,10 +56,12 @@ hi! 欢迎来到本站
 <p>使用方法可以参考<a href="https://blazeb2.js.org" target="_blank">官方文档</a></p>
 </dd>
 
-<dt><a href="https://b2.nanking.top/other/camera.html" target="_blank">JS调用摄像头</a></dt>
+<dt><a href="https://nanking.top/program/Camera/index.html" target="_blank">JS调用摄像头</a></dt>
 <dd>
 <p>用JavaScript写的可以调用摄像头拍照并保存的小项目</p>
 </dd>
 </dl>
 
 <!-- 分割线 -->
+
+<address>webmaster &lt;hi@nanking.top&gt;</address>
