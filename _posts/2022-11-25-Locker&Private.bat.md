@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 问天地好在
+title: 文件夹加密并隐藏
 author: Yang
 --- 
 
-此脚本是利用windows自身的attrib把文件夹重命名并设为隐藏和系文件。
+此脚本是利用windows自身的attrib把文件夹重命名并设为隐藏文件。
 
 首先新建一个文本文档
 
