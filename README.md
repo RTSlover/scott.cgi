@@ -1,16 +1,16 @@
-# nanking.top
+# yangtze
 
 hi! 欢迎来到本站
 
 <!-- 分割线 -->
 
-上一次编辑于2022-11-12
+上一次编辑于2022-12-14
 
 <!-- 分割线 -->
 
 ## 其他的
 <dl>
-<dt><a href="https://nanking.top/blog/">blog</a></dt>
+<dt><a href="https://yangtze.ml/blog/">blog</a></dt>
 <dd>
 <p>个人博客，分享技术与知识</p>
 </dd>
@@ -27,7 +27,7 @@ hi! 欢迎来到本站
 <p></p>
 </dd>
 
-<dt><a href="https://img.nanking.top" target="_blank">b2图床</a></dt>
+<dt><a href="https://img.yangtze.ml" target="_blank">b2图床</a></dt>
 <dd>
 <p>使用 GitHub 上的开源项目 <a href="https://github.com/Rr210/blazeB2" target="_blank">blazeB2</a> 搭建</p>
 <p>具体的使用方法可以参考<a href="https://blazeb2.js.org/" target="_blank">官方文档</a></p>
@@ -56,7 +56,7 @@ hi! 欢迎来到本站
 <p>使用方法可以参考<a href="https://blazeb2.js.org" target="_blank">官方文档</a></p>
 </dd>
 
-<dt><a href="https://b2.nanking.top/program/Camera/index.html" target="_blank">拍照</a></dt>
+<dt><a href="https://b2.yangtze.ml/program/Camera/index.html" target="_blank">拍照</a></dt>
 <dd>
 <p>用JavaScript写的可以调用摄像头拍照并保存的小项目</p>
 </dd>
@@ -64,4 +64,4 @@ hi! 欢迎来到本站
 
 <!-- 分割线 -->
 
-<address>webmaster &lt;hi@nanking.top&gt;</address>
+<address>webmaster &lt;for@example.xxx&gt;</address>
