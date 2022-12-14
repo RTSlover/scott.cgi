@@ -63,5 +63,3 @@ hi! 欢迎来到本站
 </dl>
 
 <!-- 分割线 -->
-
-<address>webmaster &lt;for@example.xxx&gt;</address>
