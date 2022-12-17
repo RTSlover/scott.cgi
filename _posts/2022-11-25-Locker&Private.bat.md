@@ -8,7 +8,7 @@ author: Yang
 
 首先新建一个文本文档
 
-在输入如下内容
+再输入如下内容
 
 ![](https://b2.nanking.top/pic/other/Locker.png)
 
@@ -88,7 +88,7 @@ goto End
 
 ---
 
-如果需要设置密码，则可以以如下内容替换上部分的内容。
+如果需要设置密码，则可以以如下内容替换上面的内容。
 
 ![](https://b2.nanking.top/pic/other/private.png)
 
