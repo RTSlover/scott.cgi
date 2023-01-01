@@ -5,7 +5,7 @@ permalink: /about/
 lang: zh-cn
 ---
 
-![](https://b2.nanking.top/pic/img/Saturn%20in%20Freefall%20.jpg)
+![](https://b2.yangtze.in/pic/img/Saturn%20in%20Freefall%20.jpg)
 
 是个学生，目前高中。
 
