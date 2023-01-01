@@ -90,7 +90,7 @@ goto End
 
 如果需要设置密码，则可以以如下内容替换上面的内容。
 
-![](https://b2.nanking.top/pic/other/private.png)
+![](https://b2.yangtze.in/pic/other/private.png)
 
 ```
 
