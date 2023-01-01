@@ -10,7 +10,7 @@ author: Yang
 
 再输入如下内容
 
-![](https://b2.nanking.top/pic/other/Locker.png)
+![](https://b2.yangtze.in/pic/other/Locker.png)
 
 ```
 
