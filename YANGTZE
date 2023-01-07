@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>YANGTZE</title>
+		<link rel="icon" href="https://b2.yangtze.in/pic/other/YZ.png" type="image/x-icon">
+		<style type="text/css">
+		h1 {
+         padding: 4px;
+         background-color: gray;
+		 }
+		 h2 {
+         padding: 4px;      
+         background-color: gray;
+		 }
+		 dt {
+         font-weight:bold;
+         padding: 4px;
+		 }
+		 dd {
+         margin: 0.5em 1em 1em 2em;
+		 }
+		 </style>
+		 </head>
+		 
+<!-- 在<dd>中可以使用多个<p>标签进行换行 -->
+
+	<body>
+		<h1>yangtze.in</h1>
+<!-- 分割线 -->
+
+		<dl>
+		<dt><a href="https://monlon-my.sharepoint.com/:f:/g/personal/one_nanking_top/EhtvZZ4NhiVFiGE5xWQsPb4BqoToZD7VujqeAx6y9cy3hQ?e=NZT2pL
+" target="_blank">p</a></dt>
+		<dd></dd>
+		</dl>
+    
+<!-- 分割线 -->
+
+		<dl>
+		<dt><a href=""></a></dt>
+		<dd></dd>
+    
+<!-- 分割线 -->
+		<hr>
+		<address>webmaster &lt;zy@yangtze.in&gt;</address>
+	</body>
+</html>
