@@ -38,7 +38,7 @@ hi! 欢迎来到本站
 <p>可以在没有 VPN 的情况下使用维基百科</p>
 </dd>
 
-<dt><a href="https://yangtze.ml" target="_blank">Google search mirror</a></dt>
+<dt><a href="https://g.yangtze.ml" target="_blank">Google search mirror</a></dt>
 <dd>
 <p>可以在没有 VPN 的情况下使用谷歌搜索</p>
 <p>如果触发了人机验证，多刷新几次即可</p>
