@@ -6,10 +6,6 @@ author: Yang
 
 >###### 转载自：[Stop-Ask-Questions-The-Stupid-Ways](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways)
 
-# 别像弱智一样提问
-
-Stop-Ask-Questions-The-Stupid-Ways
-
 ---
 
 ## 你真的准备好了吗？
