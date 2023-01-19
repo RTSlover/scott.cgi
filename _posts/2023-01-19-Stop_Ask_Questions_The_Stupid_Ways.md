@@ -112,7 +112,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 |-------------|-------------|-------------|------------------|
 | 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
 
-![](https://b2.yangtze.in/pic/other/googleit.jpg)
+![](https://b2.yangtze.in/pic/other/googleit.png)
 
 ---
 
