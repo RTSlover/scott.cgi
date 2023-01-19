@@ -4,9 +4,13 @@ title: 别像弱智一样提问
 author: Yang
 --- 
 
+>###### 转载自：[Stop-Ask-Questions-The-Stupid-Ways](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways)
+
 # 别像弱智一样提问
 
 Stop-Ask-Questions-The-Stupid-Ways
+
+---
 
 ## 你真的准备好了吗？
 
@@ -109,3 +113,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 | 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
 
 ![](https://b2.yangtze.in/pic/other/googleit.jpg)
+
+---
+
+>###### 转载自：[Stop-Ask-Questions-The-Stupid-Ways](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways)
