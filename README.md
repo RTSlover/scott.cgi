@@ -4,7 +4,7 @@ hi! 欢迎来到本站
 
 <!-- 分割线 -->
 
-上一次编辑于2023-01-01
+上一次编辑于2023-01-23
 
 <!-- 分割线 -->
 
@@ -33,12 +33,12 @@ hi! 欢迎来到本站
 <p>具体的使用方法可以参考<a href="https://blazeb2.js.org/" target="_blank">官方文档</a></p>
 </dd>
 
-<dt><a href="https://wiki.yangtze.ml/zh-cn/Wikipedia:%E9%A6%96%E9%A1%B5" target="_blank">Wikipedia mirror</a></dt>
+<dt>~~Wikipedia mirror~~</dt>
 <dd>
 <p>可以在没有 VPN 的情况下使用维基百科</p>
 </dd>
 
-<dt><a href="https://g.yangtze.ml" target="_blank">Google search mirror</a></dt>
+<dt>~~Google search mirror~~</dt>
 <dd>
 <p>可以在没有 VPN 的情况下使用谷歌搜索</p>
 <p>如果触发了人机验证，多刷新几次即可</p>
