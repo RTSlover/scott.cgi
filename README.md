@@ -33,12 +33,12 @@ hi! 欢迎来到本站
 <p>具体的使用方法可以参考<a href="https://blazeb2.js.org/" target="_blank">官方文档</a></p>
 </dd>
 
-<dt>~~Wikipedia mirror~~</dt>
+~~Wikipedia mirror~~
 <dd>
 <p>可以在没有 VPN 的情况下使用维基百科</p>
 </dd>
 
-<dt>~~Google search mirror~~</dt>
+~~Google search mirror~~
 <dd>
 <p>可以在没有 VPN 的情况下使用谷歌搜索</p>
 <p>如果触发了人机验证，多刷新几次即可</p>
