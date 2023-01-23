@@ -1,4 +1,4 @@
-# yangtze.in <a href="https://www.eff.org/pages/blue-ribbon-campaign">![](https://www.eff.org/files/brstrip.gif)</a>
+# yangtze.in
 
 hi! 欢迎来到本站
 
