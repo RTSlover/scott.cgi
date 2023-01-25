@@ -6,7 +6,7 @@ author: Yang
 
 # Cloudflare Workers
 
-## 搭建维基百科镜像
+## 搭建维基百科镜像[^1]
 
 可以使用 Cloudflare Workers 搭建维基百科镜像网站。Cloudflare Workers 有免费版本，但是有配额限制，免费版本每天的请求数量不能超过100000次。请求数次日不累计，会清零重新计算。
 
@@ -58,7 +58,7 @@ async function handleRequest(request) {
 以上代码不支持POST方法，而编辑页面需要使用POST方法，所以只能查看不能编辑页面。
 默认的字词转换模式为“不转换”，如果想使用其他字词转换模式，请删除上方内容中u.searchParams.append('variant','zh-cn')之前的//字样，然后将zh-cn替换为您想要的字词转换模式。
 
-> ###### 参考文献：[Help:如何访问维基媒体旗下项目](https://meta.wikimedia.org/wiki/Help:%E5%A6%82%E4%BD%95%E8%AE%BF%E9%97%AE%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E6%97%97%E4%B8%8B%E9%A1%B9%E7%9B%AE)
+[^1]:参考文献：[Help:如何访问维基媒体旗下项目](https://meta.wikimedia.org/wiki/Help:%E5%A6%82%E4%BD%95%E8%AE%BF%E9%97%AE%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E6%97%97%E4%B8%8B%E9%A1%B9%E7%9B%AE)
 
 ---
 
