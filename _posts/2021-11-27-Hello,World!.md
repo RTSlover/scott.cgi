@@ -10,4 +10,4 @@ author: Yang
 
 ## 2022-12-31T14:04:15Z
 
-[^1]:参考文章：<a href="https://zhuanlan.zhihu.com/p/51240503">Github Pages + jekyll 全面介绍极简搭建个人网站和博客</a>
+[^1]:参考文章：[Github Pages + jekyll 全面介绍极简搭建个人网站和博客](https://zhuanlan.zhihu.com/p/51240503)
