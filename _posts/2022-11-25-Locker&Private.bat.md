@@ -4,7 +4,7 @@ title: 文件夹加密并隐藏
 author: Yang
 --- 
 
-此脚本是利用windows自身的attrib把文件夹重命名并设为隐藏文件。
+此脚本是利用windows自身的attrib把文件夹重命名并设为隐藏文件。[^1]
 
 首先新建一个文本文档
 
@@ -138,4 +138,4 @@ goto End
 
 ---
 
->###### 参考文章：[无需软件加密文件夹](https://jingyan.baidu.com/article/6fb756ec98a317241858fbfe.html)
+[^1]:参考文章：[无需软件加密文件夹](https://jingyan.baidu.com/article/6fb756ec98a317241858fbfe.html)
