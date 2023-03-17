@@ -5,7 +5,7 @@ copyright  : © 2021-2023 Yangtze. Powered by Jekyll.
 
 nav:
  - name: 首页
-   link: /index         # link 是 pages 里面的文件名中的permalink，此处格式为 /forexample/
+   link: /        # link 是 pages 里面的文件名中的permalink，此处格式为 /forexample/
  - name: 博客
    link: /blog/
  - name: 关于
