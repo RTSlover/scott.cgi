@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Yangtze
 permalink: /
 lang: zh-cn
 ---
