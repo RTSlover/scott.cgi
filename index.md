@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yangtze
-permalink: /
+permalink: 
 lang: zh-cn
 ---
 
